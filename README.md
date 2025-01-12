@@ -43,6 +43,7 @@ Proficient in designing and implementing data pipelines, conducting in-depth dat
 [![Tableau](https://img.icons8.com/color/50/000000/tableau-software.png)](https://public.tableau.com/app/profile/kaustubh.darange/vizzes)&nbsp;&nbsp;
 [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/kaustubh-darange/)&nbsp;&nbsp;
 [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:kaustubhdarange15@gmail.com)
+[![Website](https://img.icons8.com/color/50/000000/domain.png)](https://kaustubhd15.github.io/)
 
 
 
