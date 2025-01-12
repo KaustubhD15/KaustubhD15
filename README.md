@@ -12,15 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Kaustubh Manoj Darange, currently pursuing a Master’s in Business Analytics and AI at the University of Texas at Dallas.
-With a Mechanical Engineering degree from the University of Mumbai, I bring a unique blend of technical expertise and analytical thinking to solve business challenges.
+## I am Kaustubh Manoj Darange, currently pursuing a Master’s in Business Analytics and AI at the University of Texas at Dallas.
+## I combine technical expertise with analytical thinking to tackle business challenges. At the Centre for Computational Technologies, I drove a 20% increase in lead conversions and boosted social media visibility by 40% using data-driven strategies. Proficient in Power BI, Tableau, SQL, Python, and Java, I specialize in creating impactful dashboards, optimizing workflows, and delivering insights that cut processing times by 40% and increase revenues by 65%.
+## I am passionate about leveraging analytics and technology to create innovative solutions and empower organizations to make data-driven decisions.
 
-My professional experience includes roles at the Centre for Computational Technologies, where I improved lead conversions by 20% and increased social media visibility by 40% using data-driven strategies.
-I have a proven track record of building impactful dashboards, streamlining workflows, and delivering actionable insights that drive business growth.
-
-Skilled in tools like Power BI, Tableau, SQL, and programming languages such as Python and Java, I excel at transforming data into strategic decisions.
-My work has led to significant results, including reducing processing times by 40% and boosting revenues by 65%.
-
-I am passionate about leveraging analytics and technology to create innovative solutions and empower organizations to make data-driven decisions.
-- 💬 Ask me about ... Business, Strategizing, Streamlining, Management, Marketing, Dashboard building, website building.  
-- 📫 How to reach me: ... kaustubhdarange15@gmail.com
+- 💬 **Ask me about** ... Business, Strategizing, Streamlining, Management, Marketing, Dashboard building, website building.  
+- 📫 **How to reach me:** ... kaustubhdarange15@gmail.com
